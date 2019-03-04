@@ -1,1 +1,3 @@
-# openshift_meetup_rm_1
+OpenShift Meetup Roma #1
+
+repo lab 
